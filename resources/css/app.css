@@ -1,0 +1,16 @@
+#reload{
+    width: 36px;
+    height: 36px;
+    background-color: white;
+    border-radius: 8px;
+    border-color: gray;
+
+}
+#reload svg{
+    margin-top: 5px;
+}
+
+span#captcha-img{
+
+}
+
